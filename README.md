@@ -2,7 +2,9 @@
 
 <h2>QuickMeet is a scalable full-stack video conferencing application that enables real-time peer-to-peer communication. It supports multi-user video calls, screen sharing, and real-time chat using modern web technologies.</h2>
 📸 Screenshots
-![My Model](https://github.com/Shyampatil07/Airbnb/blob/main/Screenshot(5).png?raw=true)
+
+![My Model](https://github.com/Shyampatil07/Shyam-Video-Call/blob/main/Zoom.png?raw=true)
+
 (Add screenshots of your UI here – video call, chat, etc.)
 
 🌐 Live Demo :
