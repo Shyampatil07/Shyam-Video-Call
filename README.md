@@ -11,7 +11,7 @@
 👉[Live Demo ](https://shyam-video-call.onrender.com)
 
 
-<b>🚀 Features</b><br><br>
+<h3><b>🚀 Features</b></h3><br><br>
 🎥 Real-Time Video & Audio Calls (WebRTC)<br>
 👥 Multi-User Meeting Rooms<br>
 💬 Live Chat Messaging<br>
@@ -19,12 +19,12 @@
 🔐 Secure Signaling with Socket.io<br>
 ⚡ Low Latency Peer-to-Peer Communication <br>
 <b>🛠️ Tech Stack</b><br><br>
-<b>🌐 Frontend </b><br><br>
+<b>🌐 Frontend :</b>
 HTML<br>
 CSS<br>
 JavaScript<br>
 EJS<br>
-<b>⚙️ Backend </b><br><br>
+<b>⚙️ Backend :</b>
 Node.js<br>
 Express.js<br>
 Socket.io<br>
