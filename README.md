@@ -37,15 +37,15 @@ Postman<br>
 Git & GitHub<br>
 Render (Deployment)  <br><br>
 <b>📂 Project Structure </b><br><br>
-QuickMeet/
-│
-├── public/         # Static files (CSS, JS)
-├── views/          # EJS Templates
-├── routes/         # API Routes
-├── controllers/    # Business Logic
-├── models/         # Database Schemas
-├── sockets/        # Socket.io Logic
-├── config/         # Configuration files
+QuickMeet/<br>
+│<br>
+├── public/         # Static files (CSS, JS)<br>
+├── views/          # EJS Templates<br>
+├── routes/         # API Routes<br>
+├── controllers/    # Business Logic<br>
+├── models/         # Database Schemas<br>
+├── sockets/        # Socket.io Logic<br>
+├── config/         # Configuration files<br>
 └── server.js       # Entry point<br><br>
 
 <b>📊 How It Works </b><br><br>
