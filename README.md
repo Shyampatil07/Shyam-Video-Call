@@ -19,23 +19,23 @@
 🔐 Secure Signaling with Socket.io<br>
 ⚡ Low Latency Peer-to-Peer Communication <br>
 <b>🛠️ Tech Stack</b><br><br>
-<b>🌐 Frontend :</b>
+<b>🌐 Frontend :</b><br>
 HTML<br>
 CSS<br>
 JavaScript<br>
-EJS<br>
-<b>⚙️ Backend :</b>
+EJS<br><br>
+<b>⚙️ Backend :</b><br>
 Node.js<br>
 Express.js<br>
-Socket.io<br>
-<b>🔗 Real-Time Communication </b><br><br>
-WebRTC<br>
-<b>🗄️ Database </b><br><br>
-MongoDB<br>
-<b>🧰 Tools </b><br><br>
+Socket.io<br><br>
+<b>🔗 Real-Time Communication :</b><br>
+WebRTC<br><br>
+<b>🗄️ Database :</b><br>
+MongoDB<br><br>
+<b>🧰 Tools :</b><br>
 Postman<br>
 Git & GitHub<br>
-Render (Deployment)  <br>
+Render (Deployment)  <br><br>
 <b>📂 Project Structure </b><br><br>
 QuickMeet/
 │
