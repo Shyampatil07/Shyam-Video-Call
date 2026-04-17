@@ -12,31 +12,31 @@
 
 
 <b>🚀 Features</b><br><br>
-🎥 Real-Time Video & Audio Calls (WebRTC)
-👥 Multi-User Meeting Rooms
-💬 Live Chat Messaging
-🖥️ Screen Sharing
-🔐 Secure Signaling with Socket.io
+🎥 Real-Time Video & Audio Calls (WebRTC)<br>
+👥 Multi-User Meeting Rooms<br>
+💬 Live Chat Messaging<br>
+🖥️ Screen Sharing<br>
+🔐 Secure Signaling with Socket.io<br>
 ⚡ Low Latency Peer-to-Peer Communication <br>
-🛠️ Tech Stack
+<b>🛠️ Tech Stack</b><br><br>
 <b>🌐 Frontend </b><br><br>
-HTML
-CSS
-JavaScript
-EJS
-⚙️ Backend </b><br><br>
-Node.js
-Express.js
-Socket.io
-🔗 Real-Time Communication </b><br><br>
-WebRTC
-🗄️ Database </b><br><br>
-MongoDB
-🧰 Tools </b><br><br>
-Postman
-Git & GitHub
+HTML<br>
+CSS<br>
+JavaScript<br>
+EJS<br>
+<b>⚙️ Backend </b><br><br>
+Node.js<br>
+Express.js<br>
+Socket.io<br>
+<b>🔗 Real-Time Communication </b><br><br>
+WebRTC<br>
+<b>🗄️ Database </b><br><br>
+MongoDB<br>
+<b>🧰 Tools </b><br><br>
+Postman<br>
+Git & GitHub<br>
 Render (Deployment)  <br>
-📂 Project Structure </b><br><br>
+<b>📂 Project Structure </b><br><br>
 QuickMeet/
 │
 ├── public/         # Static files (CSS, JS)
@@ -48,27 +48,27 @@ QuickMeet/
 ├── config/         # Configuration files
 └── server.js       # Entry point<br>
 
-📊 How It Works </b><br><br>
-User creates or joins a meeting room
-Signaling server (Socket.io) exchanges connection data
-WebRTC establishes peer-to-peer connection
+<b>📊 How It Works </b><br><br>
+User creates or joins a meeting room<br>
+Signaling server (Socket.io) exchanges connection data<br>
+WebRTC establishes peer-to-peer connection<br>
 Users can:
 Start video/audio calls
 Share screen
 Send real-time messages
 
 
-🔒 Security & Performance </b><br><br>
-Secure signaling via Socket.io
-Efficient peer-to-peer communication using WebRTC
-Optimized for low latency real-time interaction
-🌟 Future Enhancements </b><br><br>
-Authentication & user accounts
-Meeting recording feature
-Chat file sharing
+<b>🔒 Security & Performance </b><br><br>
+Secure signaling via Socket.io<br>
+Efficient peer-to-peer communication using WebRTC<br>
+Optimized for low latency real-time interaction<br>
+<b>🌟 Future Enhancements </b><br><br>
+Authentication & user accounts<br>
+Meeting recording feature<br>
+Chat file sharing<br>
 Mobile responsiveness improvements<br>
 
 
-🤝 Contributing </b><br><br>
+<b>🤝 Contributing </b><br><br>
 
 Contributions are welcome! Feel free to fork and improve the project.
